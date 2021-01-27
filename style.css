@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(0,0,0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    font-size: 30px;
+    animation-delay: 1s;
+    transform: rotate(-25deg);
+    cursor: default;
+}
+
+i{
+    color: rgba(0,0,0,0.5);
+    transition: 1s;
+}
+
+i:hover{
+    transition: 0s;
+    color: #ff3300;
+    text-shadow: 0px 0px 100px #ff3300;
+}
+
+
