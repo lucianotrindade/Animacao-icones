@@ -8,5 +8,5 @@ Essa animação tem como objetivo mostrar os icnes ao passar o mouse sobre a ár
 
 Projeto:
 
-![Vídeo do projeto]()
+![Vídeo do projeto](https://github.com/lucianotrindade/Animacao-icones/blob/main/assets/Anima%C3%A7%C3%A3o-icone.gif)
 
